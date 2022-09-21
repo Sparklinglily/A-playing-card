@@ -1,0 +1,109 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color:rgb(207, 199, 199);
+  display: flexbox;
+}
+
+.container{
+  width: 45%;
+  background-color: white;
+  display: flexbox;
+  margin: auto;
+  margin-top: 50px;
+  height: 500px;
+  text-indent: 1em;
+  padding: 30px;
+  color: red;
+  font-weight: bold ;
+  /* font-size: 1em; */
+  box-shadow: 2px 4px 3px grey;
+  border-radius: 6px;
+
+}
+.two{
+  font-size: 2em;
+}
+
+.ash{
+  background-color: red;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  transform: rotate(45deg);
+  border-radius: 3px;
+  font-size: 2em;
+
+
+}
+
+
+.blockone{
+  height: 60px;
+  width: 70px;
+  background-color: red;
+  margin: auto;
+  margin-top: 40px;
+  transform: rotate(45deg);
+  /* transform: skew(10deg, 10deg) rotate(15deg); */
+  border-radius: 3px;
+  }
+
+  
+.blocktwo
+{
+  margin-top: 70px;
+  height: 60px;
+  width: 70px;
+  background-color: red;
+  margin: auto;
+  transform: rotate(45deg);
+  border-radius: 3px;
+}
+
+.footer2{
+  background-color: red;
+  height: 30px;
+  width: 30px;
+  float: right;
+  position:relative;
+  top:-105px;
+  margin-top: 70px;
+  right: -10px;
+  transform: rotate(45deg);
+  border-radius: 3px;
+  
+}
+
+.footer {
+  font-size:2em;
+  float: right;
+  transform: scale(-1, -1);
+  margin-top: 10px;
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+}
+
+
+
+
+
